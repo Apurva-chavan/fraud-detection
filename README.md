@@ -1,24 +1,4 @@
-<<<<<<< HEAD
-# Healthcare Provider Fraud Detection 
- 
-## Project Overview 
-Predicting potentially fraudulent healthcare providers using Medicare claims data. 
- 
-## Model Results 
-- Accuracy : 93.3%% 
-- AUC Score : 0.9531 
-- Fraudulent Providers Detected : 144 out of 1353 
- 
-## Streamlit App 
-https://fraud-detection-neunc5inhdxcpmnpy58v8r.streamlit.app/
- 
-## Files 
-- pipeline.py - Main ML pipeline 
-- app.py - Streamlit dashboard 
-- requirements.txt - Python dependencies 
-- outputs/Submission.csv - Final predictions 
-- outputs/FraudDetection_Notebook.html - Analysis notebook 
-=======
+
 # Healthcare Provider Fraud Detection
 
 ## Project Overview
