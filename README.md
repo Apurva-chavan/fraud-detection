@@ -31,7 +31,7 @@ based on Medicare insurance claims data using Machine Learning.
 - Fraudulent Providers Detected : 144 out of 1,353
 
 ## Live Streamlit Dashboard
-https://fraud-detection-jzfpff5dptinxgwhgbfvkj.streamlit.app/
+https://fraud-detection-neunc5inhdxcpmnpy58v8r.streamlit.app/
 
 ## Project Files
 | File | Description |
@@ -54,4 +54,4 @@ https://fraud-detection-jzfpff5dptinxgwhgbfvkj.streamlit.app/
 Medicare claims data — Inpatient, Outpatient and Beneficiary records
 - Training : 5,410 providers
 - Test/Unseen : 1,353 providers
->>>>>>> b9168822553f21c7749472e45785f7bc8d81c5c0
+
