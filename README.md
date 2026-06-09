@@ -10,7 +10,7 @@ Predicting potentially fraudulent healthcare providers using Medicare claims dat
 - Fraudulent Providers Detected : 144 out of 1353 
  
 ## Streamlit App 
-[Click here to open the live dashboard](PASTE_YOUR_STREAMLIT_LINK_HERE) 
+https://fraud-detection-neunc5inhdxcpmnpy58v8r.streamlit.app/
  
 ## Files 
 - pipeline.py - Main ML pipeline 
